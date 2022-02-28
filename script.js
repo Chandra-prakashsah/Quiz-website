@@ -1,10 +1,10 @@
 const QuizzDb=[
     {
-        question:"Q1: what is the full form of HTMl?",
+        question:"Q1: what is the full form of HTML?",
         a:"HyperText Markup Language",
-        b:"Hey text markup language",
-        c:"Hello to my land",
-        d:"None of this",
+        b:"Hey text Markup Language",
+        c:"Hello to My Land",
+        d:"None Of This",
         ans:"ans1"
     },
     {
@@ -33,9 +33,9 @@ const QuizzDb=[
     },
     {
         question:"Q5: what is the full form of BOM?",
-        a:"Browser object model",
+        a:"Browser Object Model",
         b:"Board Object Model",
-        c:"Boat opera music",
+        c:"Boat Opera Music",
         d:"None of this",
         ans:"ans1"
     },
@@ -49,7 +49,7 @@ const QuizzDb=[
     },
     {
         question:"Q7: what is the syntax of ternary operator?",
-        a:"(condition)?'true':'false",
+        a:"(condition)?'true':'false'",
         b:"true",
         c:"false",
         d:"all of the above",
