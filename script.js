@@ -2,9 +2,9 @@ const QuizzDb=[
     {
         question:"Q1: what is the full form of HTML?",
         a:"HyperText Markup Language",
-        b:"Hey text Markup Language",
-        c:"Hello to My Land",
-        d:"None Of This",
+        b:"Hey Text Markup Language",
+        c:"Hello To My Land",
+        d:"None of this",
         ans:"ans1"
     },
     {
@@ -60,7 +60,7 @@ const QuizzDb=[
         a:"Internet Protocol",
         b:"Internet Port",
         c:"Both",
-        d:"Internet paragraph",
+        d:"Internet Paragraph",
         ans:"ans1"
     },
     {
